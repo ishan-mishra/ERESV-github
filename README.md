@@ -96,7 +96,7 @@ Summary:
 |Tool|Description|
 |:------|:------|
 |**[GitHub Guides](https://guides.github.com/)**|A set of guides to GitHub (check also their [videos](https://www.youtube.com/user/GitHubGuides/videos))|
-|**[Softwarer Carpentry](http://swcarpentry.github.io/git-novice/)**| Great general resource for sofwater development principles
+|**[Software Carpentry](http://swcarpentry.github.io/git-novice/)**| Great general resource for sofwater development principles
 |**[GitHub for Atom](https://github.atom.io/)**|A GitHub plugin for the Atom text editor, in case you don't want to install a complete Git GUI client|
 |**[Start Bootstrap](https://startbootstrap.com/)**|A library of free open-source website themes and templates that you can download or directly view on GitHub|
 |**[Zenodo](https://zenodo.org/), [Figshare](https://figshare.com/)**|For sharing large data files used in your research; version control; DOIs for data|
